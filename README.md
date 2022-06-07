@@ -1,4 +1,4 @@
-Hello, my name is Luan and i'm a master student of Federal University of Uberlândia, i'm studying about cryptosecurity.
+Hello, my name is Luan and i'm a master student of Federal University of Uberlândia, i'm studying about cybersecurity.
 That's it, maybe i update that bio, or not... have fun with the codes!
 
 <!---
